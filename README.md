@@ -48,16 +48,17 @@ ESP32 Arduino Core : 2.0.17
 </p>
 
 ---
+## 📸 Local Wi-Fi Dashboard
 
-## 🔄 Flow Diagram
 
-> Upload as **flow_diagram.png**
 
 <p align="center">
-  <img src="flow_diagram.png" width="500" style="border-radius:12px;">
+  <img src="projec1_photo.jpeg" width="440" style="border-radius:12px;">
 </p>
 
 ---
+
+
 
 ## 🚀 Key Features
 
