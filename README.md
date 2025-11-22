@@ -53,7 +53,7 @@ ESP32 Arduino Core : 2.0.17
 
 
 <p align="center">
-  <img src="projec1_photo.jpeg" width="440" style="border-radius:12px;">
+  <img src="projec1_photo.png" width="440" style="border-radius:12px;">
 </p>
 
 ---
