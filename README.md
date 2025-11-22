@@ -32,11 +32,11 @@ ESP32 Arduino Core : 2.0.17
 
 | Library | Version | Emoji |
 |--------|---------|-------|
-| MAX30100_PulseOximeter | **1.2.0** | ❤️ |
-| Adafruit SSD1306 | **2.5.7** | 🖥 |
-| Adafruit GFX Library | **1.11.9** | 🎨 |
+| MAX30100 milan by Oxullo Intersecaris... | **1.3.0** | ❤️ |
+| Adafruit SSD1306 byAdafruit6 | **2.5.15** | 🖥 |
+| Adafruit GFX Library by Adafruit| **1.12.3** | 🎨 |
 | Wire (built-in) | ESP32 default | ⚙ |
-
+| Adafruit_BusIO by Adafruit   | 1.17.4  |💻|
 ---
 
 ## 📸 Project Photo
