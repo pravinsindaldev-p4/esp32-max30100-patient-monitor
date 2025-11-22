@@ -44,7 +44,7 @@ ESP32 Arduino Core : 2.0.17
 > Upload as **project_photo.jpg**
 
 <p align="center">
-  <img src="project_photo.jpg" width="440" style="border-radius:12px;">
+  <img src="project_photo.jpeg" width="440" style="border-radius:12px;">
 </p>
 
 ---
