@@ -5,7 +5,12 @@
 </p>
 
 ---
+<p align="center">
+  <img src="homepage.png" width="800" style="border-radius:12px;">
+</p>
 
+
+---
 ## ✨ Overview
 
 This project is a **fully offline, smart health monitoring system** built with:
